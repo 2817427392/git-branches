@@ -1,0 +1,9 @@
+main{
+    text-align: center;
+    background-color: wheat;
+    border-radius: 10px;
+    border: solid black 3px;
+    width: 200px;
+    margin: 10px auto;
+    padding: 10px;
+}
